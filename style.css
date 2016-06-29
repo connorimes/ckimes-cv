@@ -158,6 +158,11 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.subPoints {
+	font-size: 0.8em;
+	margin-bottom: 3px;
+}
+
 .keySkills {
 	list-style-type: none;
 	-moz-column-count:3;
